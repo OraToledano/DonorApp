@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\DonorApp\\DonorApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F197BBEF-1B63-4349-ABD4-675E38B8B786}|DonorApp.csproj|d:\\donorapp\\donorapp\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F197BBEF-1B63-4349-ABD4-675E38B8B786}|DonorApp.csproj|solutionrelative:models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F197BBEF-1B63-4349-ABD4-675E38B8B786}|DonorApp.csproj|d:\\donorapp\\donorapp\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F197BBEF-1B63-4349-ABD4-675E38B8B786}|DonorApp.csproj|solutionrelative:models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F197BBEF-1B63-4349-ABD4-675E38B8B786}|DonorApp.csproj|d:\\donorapp\\donorapp\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F197BBEF-1B63-4349-ABD4-675E38B8B786}|DonorApp.csproj|solutionrelative:models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F197BBEF-1B63-4349-ABD4-675E38B8B786}|DonorApp.csproj|d:\\donorapp\\donorapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F197BBEF-1B63-4349-ABD4-675E38B8B786}|DonorApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F197BBEF-1B63-4349-ABD4-675E38B8B786}|DonorApp.csproj|d:\\donorapp\\donorapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F197BBEF-1B63-4349-ABD4-675E38B8B786}|DonorApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F197BBEF-1B63-4349-ABD4-675E38B8B786}|DonorApp.csproj|d:\\donorapp\\donorapp\\donorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F197BBEF-1B63-4349-ABD4-675E38B8B786}|DonorApp.csproj|solutionrelative:donorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +39,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "D:\\DonorApp\\DonorApp\\Models\\Donation.cs",
+              "RelativeDocumentMoniker": "Models\\Donation.cs",
+              "ToolTip": "D:\\DonorApp\\DonorApp\\Models\\Donation.cs",
+              "RelativeToolTip": "Models\\Donation.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:38:46.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\DonorApp\\DonorApp\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Models\\Address.cs",
+              "ToolTip": "D:\\DonorApp\\DonorApp\\Models\\Address.cs*",
+              "RelativeToolTip": "Models\\Address.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:22:54.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "D:\\DonorApp\\DonorApp\\Models\\Donor.cs",
+              "RelativeDocumentMoniker": "Models\\Donor.cs",
+              "ToolTip": "D:\\DonorApp\\DonorApp\\Models\\Donor.cs",
+              "RelativeToolTip": "Models\\Donor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:21:22.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DonorApp.csproj",
+              "DocumentMoniker": "D:\\DonorApp\\DonorApp\\DonorApp.csproj",
+              "RelativeDocumentMoniker": "DonorApp.csproj",
+              "ToolTip": "D:\\DonorApp\\DonorApp\\DonorApp.csproj*",
+              "RelativeToolTip": "DonorApp.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T17:37:33.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\DonorApp\\DonorApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\DonorApp\\DonorApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T16:39:50.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\DonorApp\\DonorApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
