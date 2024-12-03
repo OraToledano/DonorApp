@@ -1,0 +1,50 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.vscode/
+
+# Visual Studio specific
+.vs/
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.log
+
+# Entity Framework migrations history
+Migrations/
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Resharper and Rider files
+_ReSharper*/
+*.DotSettings.user
+
+# Temporary files used by IDE
+.~
+
+# Generated files
+Generated/
+
+# Debug-specific files
+debug/
+
+# Crash reports and other system files
+*.crash
+
+# Publish outputs
+publish/
